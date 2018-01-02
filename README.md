@@ -12,7 +12,7 @@ Every cell has eight neighbours which it interacts with (the adjacent cells). Af
 
 See [Wikipedia](https://en.wikipedia.org/wiki/Conway's_Game_of_Life) for more information on The Game of Life.
 
-This implementation is built using React. A working version can be viewed [here](https://vanillaslice.github.io/ReactGameOfLife/).
+This implementation is built using React. A working version can be viewed [here]().
 
 ## Running Locally
 
