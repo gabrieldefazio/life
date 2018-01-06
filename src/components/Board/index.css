@@ -1,0 +1,11 @@
+.board {
+  display: flex;
+  flex-direction: column; }
+  .board .board__row {
+    display: inline-flex;
+    justify-content: center;
+    margin: 0 2rem; }
+    .board .board__row:first-child {
+      margin-top: 1rem; }
+    .board .board__row:last-child {
+      margin-bottom: 1rem; }
